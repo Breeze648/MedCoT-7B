@@ -38,7 +38,7 @@ MedCoT-7B 项目利用医学领域的链式思维（Chain-of-Thought, CoT）数�
 1. **克隆仓库**
 
    ```bash
-   git clone https://github.com/<your-username>/MedCoT-7B.git
+   git clone https://github.com/Breeze648/MedCoT-7B.git
    cd MedCoT-7B
    ```
 
@@ -99,6 +99,7 @@ MedCoT-7B/
 ├── demo.py                 # 基于 Gradio 的交互前端
 ├── config.yaml             # 训练配置文件
 ├── requirements.txt        # 项目依赖列表
+├── Tech Report			    # 实验报告
 └── README.md               # 项目说明文档
 ```
 
@@ -124,6 +125,8 @@ MedCoT-7B/
 ------
 
 ## 附：实验记录
+
+详细内容请参考 [实验报告](./Tech Report.md) 。
 
 <img src="charts/train_loss.png" alt="train_loss"  />
 
