@@ -126,7 +126,7 @@ MedCoT-7B/
 
 ## 附：实验记录
 
-详细内容请参考 [实验报告](./Tech Report.md) 。
+详细内容请参考 [实验报告](./Tech_Report.md) 。
 
 <img src="charts/train_loss.png" alt="train_loss"  />
 
